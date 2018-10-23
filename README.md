@@ -14,9 +14,13 @@ Currently Available For
     Version 1.0.0
   - Use Google Classroom Comfortably and  Securely.
   - Full Google Classroom Features.
+  - Minimize to tray.
+  - Automatic Update to latest version.
 
 ### Tech
-* [node.js] - evented I/O for the backend
+* [electron.js]
+* [Chromium Browser]
+* [Html Css]
 
 ### Installation
 Download Setup from latest release and double click to install on your computer.
