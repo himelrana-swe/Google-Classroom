@@ -18,7 +18,8 @@ Currently Available For
   - Extra Securty for external link.
 # Upcoming Version Major Features:
   - Automatic Update to latest version.
-  - Support to Mac OS
+  - Support to Mac OS.
+  - Class Work Notification.
 
 ### Tech
 * [electron.js]
