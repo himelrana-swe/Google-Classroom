@@ -20,7 +20,5 @@ Currently Available For
 ### Tech
 * [electron.js]
 * [Chromium Browser]
-* [Html Css]
-
 ### Installation
 Download Setup from latest release and double click to install on your computer.
