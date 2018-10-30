@@ -8,7 +8,7 @@ Google Classroom (Unofficial Application) is a cross platform desktop applicatio
 
 Currently Available For
 
-[![Build Status](https://himelrana-swe.com/brand/linux.png)](https://github.com/himelrana-swe/Google-Classroom/releases) [![Build Status](https://himelrana-swe.com/brand/windows.png)](https://github.com/himelrana-swe/Google-Classroom/releases)[![Build Status](https://assets.ubuntu.com/v1/c5cb0f8e-picto-ubuntu.svg)](https://github.com/himelrana-swe/Google-Classroom/releases)
+[![Build Status](https://himelrana-swe.com/brand/linux.png)](https://github.com/himelrana-swe/Google-Classroom/releases/download/v1.0.0/googleclassroom_1.0.0_amd64.deb) [![Build Status](https://himelrana-swe.com/brand/windows.png)](https://github.com/himelrana-swe/Google-Classroom/releases/download/v1.0.0/googleclassroom-setup-1.0.0.exe)
 
 # New Features!
     Version 1.0.0
