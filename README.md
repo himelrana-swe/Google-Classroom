@@ -15,10 +15,14 @@ Currently Available For
   - Use Google Classroom Comfortably and  Securely.
   - Full Google Classroom Features.
   - Minimize to tray.
+  - Extra Securty for external link.
+# Upcoming Version Major Features:
   - Automatic Update to latest version.
+  - Support to Mac OS
 
 ### Tech
 * [electron.js]
 * [Chromium Browser]
+
 ### Installation
 Download Setup from latest release and double click to install on your computer.
